@@ -1,0 +1,13 @@
+{
+    "name": "wells",
+    "private": true,
+    "scripts": {
+        "build": "webpack --config build/base.js"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "html-webpack-plugin": "^3.2.0",
+        "webpack": "^4.35.2",
+        "webpack-cli": "^3.3.5"
+    }
+}
